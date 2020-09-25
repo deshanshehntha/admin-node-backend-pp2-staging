@@ -1,0 +1,287 @@
+Create Listening on port 4004
+connected to main node
+Connected Socket = Xp08YcmRGqqQE7RsAAAA
+Disconnected Socket = Xp08YcmRGqqQE7RsAAAA
+deleted
+deleted
+Connected Socket = tA27TYPis1Ah1-d3AAAB
+c2cf8913-325f-4b91-b9a4-7aaa764aef93
+Auth request
+client connection requesthttps://44cca75b8359.ngrok.io 01C
+Kept the connection1
+new amendment added
+{
+  id: 'f0158a09-44e1-4b2b-b029-629eea148127',
+  conId: '2433f38b-e8ae-4cea-95b9-6e735db6c6aa',
+  amendments: 'adsasdasdasdasdas',
+  user: '023e256a30657e7a3ca979a2d3e0cc8488ae968361f0eb7456dc803eb9d44b94e4',
+  accepted: 0,
+  rejected: 0,
+  rate: 0,
+  limit: 3,
+  status: 'Active'
+}
+Connected Socket = qhYE66DWdT7bvtVoAAAC
+Vote validating request recieved.... |023e256a30657e7a3ca979a2d3e0cc8488ae968361f0eb7456dc803eb9d44b94e4
+Connected Socket = JOVXY6wbuUCxD_3AAAAD
+Vote validating request recieved.... |03102660be2b5dfae75a5f251df2fe94171825e1657251005aa80b2cf2300ecd2b
+new amendment added
+{
+  id: '111f3af4-ce2f-40d8-891d-dd3d0ddd2253',
+  conId: 'c78f1f7c-e5d3-44c2-89f9-b7a814b95879',
+  amendments: 'asda',
+  user: '023e256a30657e7a3ca979a2d3e0cc8488ae968361f0eb7456dc803eb9d44b94e4',
+  accepted: 0,
+  rejected: 0,
+  rate: 0,
+  limit: 3,
+  status: 'Active'
+}
+Connected Socket = y96jUeYXR2aiOYWdAAAE
+Vote validating request recieved.... |023e256a30657e7a3ca979a2d3e0cc8488ae968361f0eb7456dc803eb9d44b94e4
+main node asking connection details
+Node connection details | url : https://44cca75b8359.ngrok.io Connection Data : 
+{
+  url: 'https://44cca75b8359.ngrok.io',
+  childNodes: [],
+  cluster: 'doctor'
+}
+https://44cca75b8359.ngrok.io
+Connected Socket = vK-MNZue-d3pyO4xAAAF
+Vote validating request recieved.... |033af71cd3a5e392e2c28ba1cda32606584b19735056e54d03d2dd8bd210d99395
+Disconnected Socket = tA27TYPis1Ah1-d3AAAB
+deleted
+deleted
+Disconnected Socket = vK-MNZue-d3pyO4xAAAF
+deleted
+deleted
+ 01C
+Kept the connection1
+client connection requesthttps://44cca75b8359.ngrok.io 01C
+Kept the connection2
+http://192.168.8.101:4004
+------------------------
+Sent
+[
+  ElectionContract {
+    _contractId: 'c78f1f7c-e5d3-44c2-89f9-b7a814b95879',
+    _creator: 'ME',
+    _startTime: 1601000540738,
+    _electionCategory: 'ALL',
+    _voters: [ 'All' ],
+    _candidates: [ [Candidate], [Candidate] ],
+    _electionName: 'All Legislation',
+    _description: 'adas',
+    _startDate: '2020-09-25',
+    _endDate: '2020-09-26',
+    _clusterLeaderNode: 'http://192.168.8.101:4004',
+    _blockChainFileName: 'blockchain_data_1601000540739.json',
+    _chain: IzigmaBlockchain {
+      chain: [Blockchain],
+      wallet: [Wallet],
+      transactionPool: [TransactionPool],
+      recordPool: [RecordPool],
+      miner: [Miner]
+    },
+    _fileName: ''
+  },
+  ElectionContract {
+    _contractId: '2433f38b-e8ae-4cea-95b9-6e735db6c6aa',
+    _creator: 'ME',
+    _startTime: 1601000561262,
+    _electionCategory: 'ALL',
+    _voters: [ 'doctor' ],
+    _candidates: [ [Candidate], [Candidate] ],
+    _electionName: 'adsa',
+    _description: 'asdas',
+    _startDate: '2020-09-26',
+    _endDate: '2020-09-26',
+    _clusterLeaderNode: 'http://192.168.8.101:4004',
+    _blockChainFileName: 'blockchain_data_1601000561262.json',
+    _chain: IzigmaBlockchain {
+      chain: [Blockchain],
+      wallet: [Wallet],
+      transactionPool: [TransactionPool],
+      recordPool: [RecordPool],
+      miner: [Miner]
+    },
+    _fileName: ''
+  }
+]
+Disconnected Socket = M7PT2R58FE9a6P5ZAAAF
+deleted[object Object]
+deleted[object Object]
+voted array
+[ { conId: '2433f38b-e8ae-4cea-95b9-6e735db6c6aa', vote: 'Yes' } ]
+http://192.168.8.101:4004
+Validate this key...|023e256a30657e7a3ca979a2d3e0cc8488ae968361f0eb7456dc803eb9d44b94e4
+Vote validating process started....Intializing connection
+true
+{
+  id: '02d85590-fed6-11ea-bf4f-05c4fd9d06ba',
+  features: {
+    timestamp: 1601000571241,
+    createdBy: '023e256a30657e7a3ca979a2d3e0cc8488ae968361f0eb7456dc803eb9d44b94e4',
+    signature: {
+      r: 'f6870625bf2ebd510d03560b2a7c9d2fe1679edf8839965c187d26265d2c58a6',
+      s: '191737e1458f49efd1dc42c3d4095a6e1f8eac751a759e6c3d7faa7c828e926d',
+      recoveryParam: 1
+    }
+  },
+  data: [ { conId: '2433f38b-e8ae-4cea-95b9-6e735db6c6aa', vote: 'Yes' } ]
+}
+2433f38b-e8ae-4cea-95b9-6e735db6c6aa
+Blocks mined
+read result
+{ conId: '2433f38b-e8ae-4cea-95b9-6e735db6c6aa', vote: 'Yes' }
+new amendment added
+{
+  id: '96875e2f-4522-4cb5-bbcd-7db238ca6999',
+  conId: 'c78f1f7c-e5d3-44c2-89f9-b7a814b95879',
+  amendments: 'asda',
+  user: '03102660be2b5dfae75a5f251df2fe94171825e1657251005aa80b2cf2300ecd2b',
+  accepted: 0,
+  rejected: 0,
+  rate: 0,
+  limit: 3,
+  status: 'Active'
+}
+voted array
+[ { conId: 'c78f1f7c-e5d3-44c2-89f9-b7a814b95879', vote: 'Yes' } ]
+http://192.168.8.101:4004
+Validate this key...|03102660be2b5dfae75a5f251df2fe94171825e1657251005aa80b2cf2300ecd2b
+Vote validating process started....Intializing connection
+true
+{
+  id: '1fc8a100-fed6-11ea-a1ed-43a31fede303',
+  features: {
+    timestamp: 1601000619792,
+    createdBy: '03102660be2b5dfae75a5f251df2fe94171825e1657251005aa80b2cf2300ecd2b',
+    signature: {
+      r: '7a2d47f9d8f344cffa203f1c7109f672c387c540e6fed882b49c24ff6788c9ab',
+      s: '52a6970b2095b4b0d6d98beff5ab0f9d9bfa46eabeb2429b80de9d8eaba18c5a',
+      recoveryParam: 0
+    }
+  },
+  data: [ { conId: 'c78f1f7c-e5d3-44c2-89f9-b7a814b95879', vote: 'Yes' } ]
+}
+c78f1f7c-e5d3-44c2-89f9-b7a814b95879
+Blocks mined
+read result
+{ conId: 'c78f1f7c-e5d3-44c2-89f9-b7a814b95879', vote: 'Yes' }
+voted array
+[ { conId: 'c78f1f7c-e5d3-44c2-89f9-b7a814b95879', vote: 'Yes' } ]
+http://192.168.8.101:4004
+Validate this key...|023e256a30657e7a3ca979a2d3e0cc8488ae968361f0eb7456dc803eb9d44b94e4
+Vote validating process started....Intializing connection
+true
+{
+  id: '2fbc56b0-fed6-11ea-bf4f-05c4fd9d06ba',
+  features: {
+    timestamp: 1601000646555,
+    createdBy: '023e256a30657e7a3ca979a2d3e0cc8488ae968361f0eb7456dc803eb9d44b94e4',
+    signature: {
+      r: '7376d5de6acb90d81ff09351009abee7f9faba4914ca7132dcc266689e903b1c',
+      s: '758a961a396a81d9e0f4751ac1d172ecb1286d23219541d3093ad45c0d8b32cc',
+      recoveryParam: 0
+    }
+  },
+  data: [ { conId: 'c78f1f7c-e5d3-44c2-89f9-b7a814b95879', vote: 'Yes' } ]
+}
+c78f1f7c-e5d3-44c2-89f9-b7a814b95879
+Blocks mined
+read result
+{ conId: 'c78f1f7c-e5d3-44c2-89f9-b7a814b95879', vote: 'Yes' }
+Node connection details | url : https://fcc2bee825e0.ngrok.io Connection Data : 
+{
+  url: 'https://fcc2bee825e0.ngrok.io',
+  childNodes: [],
+  cluster: 'farmer'
+}
+https://fcc2bee825e0.ngrok.io
+Half Node connection details | url : A2 Connection Data : [object Object]
+[
+  {
+    id: '9987c8a0-96b3-421b-9e1b-f01f75790072',
+    from: 'A2',
+    to: 'https://44cca75b8359.ngrok.io',
+    type: 'friend'
+  }
+]
+[
+  {
+    id: 'be510a3f-acb3-4872-9e38-068d977337ff',
+    from: 'A1',
+    to: 'https://fcc2bee825e0.ngrok.io',
+    type: 'friend'
+  },
+  {
+    id: '9987c8a0-96b3-421b-9e1b-f01f75790072',
+    from: 'A2',
+    to: 'https://44cca75b8359.ngrok.io',
+    type: 'friend'
+  }
+]
+Connected Socket = A_JwV5l35x3bgKFhAAAG
+a2b307c7-cf1c-4b3a-96aa-bd3599ef6b50
+Auth request
+client connection requesthttps://f6fd487cd202.ngrok.io 01C
+Kept the connection2
+Disconnected Socket = A_JwV5l35x3bgKFhAAAG
+deleted[object Object]
+deleted[object Object]
+Connected Socket = JPvKlEosyppm0dtWAAAH
+a64c5642-b104-4e42-96f0-47534160daa2
+Auth request
+client connection requesthttps://4572dabafb85.ngrok.io 01C
+Kept the connection2
+new amendment added
+{
+  id: 'eb76073c-c57d-44f7-829a-4dd05d2e557e',
+  conId: 'c78f1f7c-e5d3-44c2-89f9-b7a814b95879',
+  amendments: 'adsasdasdasdasdas',
+  user: '033af71cd3a5e392e2c28ba1cda32606584b19735056e54d03d2dd8bd210d99395',
+  accepted: 0,
+  rejected: 0,
+  rate: 0,
+  limit: 3,
+  status: 'Active'
+}
+voted array
+[ { conId: 'c78f1f7c-e5d3-44c2-89f9-b7a814b95879', vote: 'Yes' } ]
+http://192.168.8.101:4004
+Validate this key...|033af71cd3a5e392e2c28ba1cda32606584b19735056e54d03d2dd8bd210d99395
+Vote validating process started....Intializing connection
+true
+{
+  id: '16048480-fed7-11ea-bdfb-59d6cece72c0',
+  features: {
+    timestamp: 1601001032904,
+    createdBy: '033af71cd3a5e392e2c28ba1cda32606584b19735056e54d03d2dd8bd210d99395',
+    signature: {
+      r: '258c6aa7f44c63e5d4af8343dfc909296c5b6ce02549e7a88842fd000be6f79',
+      s: '38722f828db534563d390c0bcb5077c3bee833221850a91cdd172f72ae884e37',
+      recoveryParam: 1
+    }
+  },
+  data: [ { conId: 'c78f1f7c-e5d3-44c2-89f9-b7a814b95879', vote: 'Yes' } ]
+}
+c78f1f7c-e5d3-44c2-89f9-b7a814b95879
+Blocks mined
+read result
+{ conId: 'c78f1f7c-e5d3-44c2-89f9-b7a814b95879', vote: 'Yes' }
+validated amendment recieved and resending
+{
+  id: 'eb76073c-c57d-44f7-829a-4dd05d2e557e',
+  conId: 'c78f1f7c-e5d3-44c2-89f9-b7a814b95879',
+  amendments: 'adsasdasdasdasdas',
+  user: '033af71cd3a5e392e2c28ba1cda32606584b19735056e54d03d2dd8bd210d99395',
+  accepted: 1,
+  rejected: 0,
+  rate: 100,
+  limit: 3,
+  status: 'Active'
+}
+Disconnected Socket = fPF7tEg16vLQaYVlAAAE
+deleted[object Object]
+deleted[object Object]
